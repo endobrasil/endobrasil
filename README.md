@@ -3,6 +3,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endobrasil&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endobrasil&hide_progress=false)]
 
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=endobrasil&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+ 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
 **endobrasil/endobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
