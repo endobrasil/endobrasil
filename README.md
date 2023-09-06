@@ -4,9 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endobrasil&hide_progress=false)]
 
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=endobrasil&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=endobrasil&bg_color=000000&color=c00757&line=a75291&point=5f595c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
  
