@@ -9,11 +9,11 @@
 
 
 
-{
+[
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=endobrasil&show_icons=true&theme=cobalt)
-
+][
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endobrasil&hide_progress=false)
-}
+]
 
 **endobrasil/endobrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
